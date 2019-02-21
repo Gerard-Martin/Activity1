@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La meva Aplicació</string>
+    <string name="hello_world">Hola món!</string>
+    <string name="textoToast">Idioma català</string>
+    <string name="textoBoton">Acció1</string>
+</resources>

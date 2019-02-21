@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi aplicación</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="textoToast">Idioma Español</string>
+    <string name="textoBoton">Acción1</string>
+</resources>
