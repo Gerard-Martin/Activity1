@@ -17,10 +17,6 @@ public class MainActivity extends AppCompatActivity {
         Button actionButton = findViewById(R.id.button);
         actionButton.setOnClickListener(new Toaster());
 
-        //TextView greetingText = (TextView) findViewById(R.id.textView);
-        //greetingText.setText(R.string.greetings);
-        //CharSequence name //getResources().getString(R.string.hello_world);
-
     }
 
     private class Toaster implements View.OnClickListener {
