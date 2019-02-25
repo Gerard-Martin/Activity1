@@ -29,13 +29,11 @@
         <ImageView
             android:layout_width="@dimen/height"
             android:layout_height="@dimen/height"
-            android:paddingEnd="@dimen/p"
-            android:paddingStart="20dip"
+            android:paddingRight="@dimen/p"
             android:src="@drawable/b" />
         <ImageView
             android:layout_width="@dimen/height"
-            android:paddingEnd="@dimen/p"
-            android:paddingStart="20dip"
+            android:paddingLeft="@dimen/p"
             android:layout_height="@dimen/height"
             android:src="@drawable/t"/>
     </LinearLayout>
